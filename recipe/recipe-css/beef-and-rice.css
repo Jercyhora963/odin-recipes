@@ -13,3 +13,8 @@ div h5 {
     color: darkred;
     background-color: antiquewhite;
 }
+
+div ul ol {
+    font-size: 14px;
+    text-align: left;
+}
