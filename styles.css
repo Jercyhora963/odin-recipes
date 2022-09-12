@@ -3,4 +3,11 @@ ul li {
     font-size: 30px;
     text-align: start;
     color: red;
+    border: 7px;
+    padding: 7px;
+    margin: 7px;
+}
+
+* {
+    border: 1px dotted red;
 }
