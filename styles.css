@@ -4,9 +4,15 @@ ul li {
     text-align: start;
     color: red;
     border: 7px;
-    padding: 7px;
-    margin: 7px;
+    padding: gray 7px;
+    margin: 10px;
 }
+
+#recipes {
+    padding-right: 50px;
+    margin-right: 50px;
+}
+
 
 * {
     border: 1px dotted red;
