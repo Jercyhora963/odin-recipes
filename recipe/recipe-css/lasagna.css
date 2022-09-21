@@ -1,0 +1,28 @@
+#beef-and-rice-img {
+    height: auto;
+    width: 300px;
+}
+
+* {
+    font-family:'Times New Roman', Times, serif;
+}
+
+div h5 {
+    font-weight: bold;
+    font-size: 17px;
+    color: darkred;
+    background-color: antiquewhite;
+}
+
+div ul ol {
+    font-size: 14px;
+    text-align: left;
+}
+
+.menu {
+    display: flex;
+    position: fixed;
+    top: 7px;
+    right: 17px;
+    background-color: gray;
+}
