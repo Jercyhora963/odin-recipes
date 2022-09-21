@@ -20,6 +20,8 @@ div ul ol {
 }
 
 .menu {
+    font-size: large;
+    font-weight: bold;
     display: flex;
     position: fixed;
     top: 7px;
