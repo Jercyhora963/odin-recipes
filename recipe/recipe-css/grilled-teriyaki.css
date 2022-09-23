@@ -28,3 +28,7 @@ div ul ol {
    right: 17px;
    background-color: chartreuse;
 }
+
+#recipe-img {
+   width: 50px;
+}
