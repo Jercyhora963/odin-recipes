@@ -35,7 +35,9 @@
     justify-content: center;
   }
 
+
   .header {
+    align-items: center;
     width: 900px;
     height: 300px;
     display: flex;
