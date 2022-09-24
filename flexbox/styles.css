@@ -52,4 +52,5 @@
 
   .photo-grid {
     width: 900px;
+    display: flex;
   }
