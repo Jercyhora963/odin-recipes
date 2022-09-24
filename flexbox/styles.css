@@ -13,6 +13,7 @@
   }
   
   .menu {
+    padding: 7px;
     border: 1px solid #fff;
     width: 900px;
     display: flex;
@@ -22,7 +23,6 @@
   .links {
     display: flex;
     justify-content: flex-end;
-    border: solid #fff;
   }
 
   .login {
