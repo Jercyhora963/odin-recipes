@@ -55,3 +55,7 @@
     display: flex;
     justify-content: flex-start;
   }
+
+  .photo-grid-item {
+    border: 1px #fff;
+  }
