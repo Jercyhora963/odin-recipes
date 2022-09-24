@@ -32,4 +32,5 @@
     color: #5995DA;
     background-color: #d6e9fe;
     display: flex;
+    justify-content: center;
   }
