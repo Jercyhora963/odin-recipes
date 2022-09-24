@@ -49,3 +49,7 @@
     display: flex;
     justify-content: center;
   }
+
+  .photo-grid {
+    width: 900px;
+  }
