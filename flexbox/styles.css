@@ -29,21 +29,21 @@
   }
 
   .header-container {
+
     color: #5995DA;
     background-color: #d6e9fe;
     display: flex;
     flex-direction: column;
-    align-items: stretch;
+    justify-content: center;
   }
 
 
   .header {
     align-items: center;
-    width: 900px;
+    width: 1400px;
     height: 300px;
     display: flex;
-
-    justify-content: stretch;
+    justify-content: space-around;
   }
 
 
