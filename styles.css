@@ -22,3 +22,7 @@ ul li {
     display: flex;
     background-color: antiquewhite;
 }
+
+.links-container {
+    display: flex;
+}
