@@ -20,10 +20,10 @@ ul li {
 
 .h1-container {
     display: flex;
+    justify-content: space-between;
     background-color: antiquewhite;
 }
 
-.links-container {
-    display: flex;
-    justify-content: space-between;
+.social {
+    font-weight: 700;
 }
