@@ -25,4 +25,5 @@ ul li {
 
 .links-container {
     display: flex;
+    justify-content: space-between;
 }
