@@ -40,7 +40,7 @@
 
   .header {
     align-items: center;
-    width: 1400px;
+    width: 900px;
     height: 300px;
     display: flex;
     justify-content: space-around;
@@ -53,6 +53,7 @@
   }
 
   .photo-grid {
+    flex-direction: column;
     width: 900px;
     display: flex;
     justify-content: flex-start;
