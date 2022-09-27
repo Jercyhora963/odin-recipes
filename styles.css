@@ -30,4 +30,5 @@ ul li {
 
 .recipes {
     display: flex;
+    background-color: azure
 }
