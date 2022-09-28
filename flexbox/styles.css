@@ -55,7 +55,7 @@
 
   .photo-grid {
     flex-direction: column-reverse;
-    width: 900px;
+    /* width: 900px; */
     display: flex;
     justify-content: flex-start;
     flex-wrap: wrap;
