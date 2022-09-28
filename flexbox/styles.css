@@ -86,3 +86,7 @@
     display: flex;
     justify-content: space-between;
   }
+
+  .footer-item {
+    border: 1px #fff;
+  }
