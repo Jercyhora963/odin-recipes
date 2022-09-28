@@ -81,3 +81,8 @@
     align-self: flex-start;
     margin: 20px;
   }
+
+  .footer {
+    display: flex;
+    justify-content: space-between;
+  }
