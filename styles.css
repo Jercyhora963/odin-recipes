@@ -9,7 +9,8 @@ ul li {
 }
 
 
-/* * {
+/* debugging code
+* {
     border: 1px dotted red;
 } */
 
@@ -26,5 +27,6 @@ ul li {
 
 .recipes {
     display: flex;
+    align-items: center;
     background-color: azure
 }
