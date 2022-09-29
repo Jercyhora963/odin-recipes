@@ -101,17 +101,29 @@
     width: 300px;
   }
 
-  .background-container {
+  /* .background-container {
     background-color: chocolate;
-  }
+  } */
+
 
   .flex-container {
     display: flex;
   }
 
   .flex-container div {
-    background-color: peachpuff;
-    border: 4px brown;
+    background: peachpuff;
     height: 100px;
+    border: 4px solid brown;
     flex: 1 1 0%;
+  }
+
+  .flex-container .two {
+    flex: 2 1 0%;
+  }
+
+  .one,
+  .two,
+  .three {
+    padding: 10px;
+    margin: 10px;
   }
