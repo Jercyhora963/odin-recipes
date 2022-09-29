@@ -109,4 +109,6 @@
     display: flex;
   }
 
-  
+  .flex-container div {
+    background-color: peachpuff;
+  }
