@@ -112,4 +112,5 @@
   .flex-container div {
     background-color: peachpuff;
     border: 4px brown;
+    height: 100px;
   }
