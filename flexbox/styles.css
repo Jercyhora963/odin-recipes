@@ -88,8 +88,25 @@
   }
 
   .footer-item {
-    border: 1px #fff;
-    background-color: #d6e9fe;
+    border: 1px blue;
+    background-color: #d6e9fe ;
     height: 200px;
     flex: 1;
   }
+
+  .footer-one,
+  .footer-three {
+    background-color: #5995DA;
+    flex: initial;
+    width: 300px;
+  }
+
+  .background-container {
+    background-color: chocolate;
+  }
+
+  .flex-container {
+    display: flex;
+  }
+
+  
