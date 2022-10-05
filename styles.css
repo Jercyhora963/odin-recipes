@@ -9,6 +9,10 @@
 }
 
 
+.recipes-container {
+    display: flex;
+}
+
 /* debugging code
 * {
     border: 1px dotted red;
