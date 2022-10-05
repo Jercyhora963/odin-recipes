@@ -13,6 +13,10 @@
     display: flex;
 }
 
+.recipes {
+    flex-direction: column;
+}
+
 /* debugging code
 * {
     border: 1px dotted red;
